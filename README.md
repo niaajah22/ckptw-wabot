@@ -1,5 +1,5 @@
 # ckptw-wabot - WhatsApp Bot dengan @mengkodingan/ckptw
-
+[IMG](https://in.pinterest.com/pin/1049831363110471164/)
 > **Catatan:** Skrip diperbarui hanya bila diperlukan, seperti untuk penyesuaian atau perbaikan.
 
 ## Gambaran Umum
